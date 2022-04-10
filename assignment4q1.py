@@ -17,4 +17,4 @@ class py_solution:
             return val*val
         return val*val*x
    
-print(py_solution().pow(100, 0));
+print(py_solution().pow(10, 2));
